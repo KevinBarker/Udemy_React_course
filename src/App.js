@@ -4,7 +4,7 @@ import MainNavigation from "./components/layout/MainNavigation";
 import AllMeetUpsPage from "./pages/AllMeetUps";
 import NewMeetUpPage from "./pages/NewMeetUp";
 import FavoritesPage from "./pages/Favorites";
-import Layout from "./components/layout/Layout";
+
 function App() {
   return (
     <div>
